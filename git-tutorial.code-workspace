@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"github.gitAuthentication": true
+		"github.gitAuthentication": false
 	}
 }
